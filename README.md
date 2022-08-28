@@ -5,11 +5,11 @@
 - 📫 How to reach me Email ID- hemant.ks009@gmail.com
 - Twitter - @Hemant__sw
 
-<p align="center">
+
     <a href="https://github.com/hemant-sw/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Hemants's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hemant-sw-29&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
-</p>
+
                     
  
 <!---
