@@ -32,7 +32,7 @@
 <br/>
 
 
-## 📊 My Github Stats
+## My Github Stats
 
 <p align="left">
     <a href="https://github.com/hemant-sw/github-readme-streak-stats">
