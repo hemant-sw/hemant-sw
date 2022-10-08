@@ -28,6 +28,15 @@
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
 
+<br/>
+
+<p align="center">
+    <a href="https://github.com/hemant-sw/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kanika Gola's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hemant-sw&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+
 
 
     <a href="https://github.com/hemant-sw/github-readme-streak-stats">
