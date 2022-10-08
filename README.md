@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate with Anyone
 - 📫 How to reach me Email ID- hemant.ks009@gmail.com
 
-# Connect with me:
+## Connect with me:
 <p align="left">
 <a href = "https://www.linkedin.com/in/hemant-sharma-82621314b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/hemantswww"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
@@ -14,6 +14,7 @@
 </p>
 
 ## Languages and Tools:
+<br/>
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
