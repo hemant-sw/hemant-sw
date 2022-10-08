@@ -1,9 +1,18 @@
+## 😇 About Me
+
 - 👋 Hi, I’m @hemant-sw
 - 👀 I’m interested in Web & App Development.
-- 🌱 I’m currently learning FrontEnd (HTML,css & javaScript).
+- 🌱 I’m currently learning full stack.
 - 💞️ I’m looking to collaborate with Anyone
 - 📫 How to reach me Email ID- hemant.ks009@gmail.com
-- Twitter - @Hemant__sw
+
+# Connect with me:
+<p align="left">
+<a href = "https://www.linkedin.com/in/hemant-sharma-82621314b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/hemantswww"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/hemant__sw/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+</p>
+
 
 
     <a href="https://github.com/hemant-sw/github-readme-streak-stats">
